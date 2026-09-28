@@ -1,0 +1,19 @@
+name: chem-ml-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.13 
+  - jupyter  
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - statsmodels
+  - scikit-learn
+  - mlxtend 
+  - openpyxl  
+  - scipy
+  - xgboost
+  - rdkit 
+  - umap-learn  
